@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+rich
+scikit-learn
+fastparquet
+APScheduler
+tabulate
+matplotlib
